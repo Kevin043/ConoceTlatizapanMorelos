@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Conoce Tlaltizapán de Zapata</string>
+    <string name="historia">Historia</string>
+    <string name="histo">Historia de Tlaltizapán</string>
+    <string name="sig">Significado:</string>
+    <string name="sighistoria">	Tlaltizapán, quiere decir "sobre blanca tierra"; ya que sus raíces etimológicas de tlal-tli: "tierra", tiza-tl: "polvo blanco" y pan: "sobre o encima", como efectivamente la población se fundó sobre una loma de tierra blanca y cuyo jeroglífico de idea exacta de esta característica.</string>
+    <string name="his">Historia</string>
+    <string name="deshistoria">Caída Tula, el centro de México fue dominado por los grupos errantes, a quienes los toltecas habían llamado despectivamente chichimecas, uno de estos grupos, los acolhuas, adoptaron la cultura tolteca y fundaron varias ciudades y estados importantes como: Coatlichan, Huexotla, Culhuacán y Texcoco, por otro lado, los tuxpanecas, chalmecas, mexicas, aztecas, xochimilcas y tlahuicas, merodeaban por el altiplano buscando territorios estables y exclusivos.</string>
+    <string name="deshistoriaDos">En Morelos, los chichimecas habían conquistado y fundado pueblos en Totolapan y en Chinameca, después los xochimilcas desplazaron a los chichimecas y se enseñorearon en la sierra del Ajusco.</string>
+    <string name="deshitoriaTres">Fueron pueblos xochimilcas: Tetela, Hueyapan, Ocuituco, Tepoztlán y Totolapan donde se mezclaron con los antiguos pobladores de Jumiltepec y Nepopolco. Durante la época prehispánica, este pueblo tributó al Valle de México.</string>
+    <string name="deshistoriaCruatro">Al principio del mes de abril de 1916 se encuentra el cuartel del general Emiliano Zapata, era el lunes 2 de junio de 1916, cuando recibió la general información acerca de los esfuerzos desempeñados por contener las tropas carrancistas que venían a erradicar el Zapatismo en que fue destrozado el cuartel, han pasado muchos años de este suceso, pero Tlaltizapán aún recuerda con cariño al jefe asesinado el 10 de abril de 1919 en la hacienda de Juan Chinameca del estado de Morelos.</string>
+    <string name="deshistoriaCinco">Al crearse el estado de Morelos, Tlaltizapán fue elevado a la categoría de municipio, correspondiéndole los siguientes pueblos: Tlaltizapán, Pueblo Nuevo, Ticumán, Temimilcingo, las haciendas de Acamilpa, San Miguel Barreto, Temilpa, Santa Rosa Treinta y Xochimancas. Así como los ranchos de Achichipico, Apozonalco, Atenanguillo, Chinameca, Los Dominicos, Huatecalco, El Meco, La Presa y san Vicente. El 9 de mayo de 1983 el Congreso del Estado decidió denominar a Tlaltizapán de Pacheco; en honor del ex gobernador del Estado don Carlos Pacheco.</string>
+    <string name="museo">Museos</string>
+    <string name="muse">Museos en Tlaltizapán</string>
+    <string name="cuarte">Revolución del Sur Ex Cuartel de Emiliano Zapata</string>
+    <string name="conteDesCuar">En el espacio que anteriormente ocupara el Molino de Alarcón en la población de Tlaltizapán, el General Emiliano Zapata Salazar estableció su Cuartel General de manera intermitente de 1914 a 1918.
+                                En los años 70`s se formalizó la creación del primer museo dedicado a la figura del El Jefe, y desde entonces este lugar alberga valiosas colecciones de los hombres que junto con él combatieron en La Revolución del Sur.
+                                Cuenta con siete salas de exposición permanente, dos salas de exposiciones temporales, un extraordinario patio interior, una sala de usos múltiples y un auditorio.</string>
+    <string name="direCuatel">Dirección: Av. Vicente Guerrero 2, C.P. 62770, Tlaltizapán, Morelos</string>
+    <string name="manantial">Manantial de la Cultura</string>
+    <string name="conteDesManatial">Este alberga un monolito con la figura de un Shaman, y en la parte trasera se encuentra un manatial.</string>
+    <string name="direManantial">Dirección: Calle Ignacio Bastida, C.P 62773, Ticumán, Morelos.</string>
+    <string name="tetelpa">Museo Comunitario San Esteban Tetelpan</string>
+    <string name="conteDesTetelpa">El museo cuenta con cuatro salas permanentes mediante las cuales se da a conocer al público visitante la historia de la región, recorrido que incluye información de los primeros habitantes de Zacatepec, muestra representativa de arte sacro y documentos históricos de la vida civil y de la época de la Revolución, entre otros objetos de interés.</string>
+    <string name="direTetelpa">Dirección: Santos Degollado s/n Col. Zacatepec de Hidalgo CP 62780 Zacatepec De Hidalgo, Zacatepec, Morelos</string>
+
+    <string name="china">Museo del Agrarismo Ex Hacienda de Chinameca</string>
+    <string name="conteDesChina">El museo expone el devenir del agrarismo, el movimiento social y político que marcó la historia del México contemporáneo, a través elementos multimedia, objetos de la época y aproximadamente medio centenar de documentos históricos de los siglos XVI hasta nuestros días.</string>
+    <string name="direChina">Dirección: Lázaro Cárdenas s/n Centro, CP 62723, Ciudad Ayala, Ayala, Morelos</string>
+
+    <string name="cultura">Cultura y Tradiciones</string>
+    <string name="tradi">Fiestasy Tradiciones de Tlaltizapán</string>
+    <string name="carna">Carnaval</string>
+    <string name="descarna">Se realiza el carnaval de los tres martes, cuya fiesta es variable; dura cinco días antes del miércoles de ceniza, se baila el brinco del chínelo; se realizan bailes y la coronación de la reina del carnaval.</string>
+    <string name="fisteaUno">•	El 10 de abril, se conmemora la muerte del general Emiliano Zapata en el cual se realiza un desfile en todas las comunidades del municipio.</string>
+    <string name="fisteaDos">El 13 de agosto, se conmemora a los mártires de esa fecha en Tlaltizapán.</string>
+    <string name="fiestaTres">El 27 de septiembre, es conocido como el Día de Aniversario: llegan a la parroquia peregrinaciones de diferentes localidades de Morelos, Estado de México y Guerrero.</string>
+    <string name="fiestaCuatro">El 28 de septiembre, se celebra La Víspera con música de viento de la localidad, el 29 de septiembre, se festeja a San Miguel Arcángel, patrono del lugar con misa de tres ministros y procesiones.</string>
+    <string name="fiestaCinco">El 13 de noviembre en Ticumán, se celebra a San Diego que no es el patrón del pueblo. Aclaración, el patrón del pueblo es Sto. Domingo de Guzmán, se celebra el 4 de agosto.</string>
+    <string name="fiestaSeis">El 12 de diciembre, se realiza la peregrinación en honor de la Virgen de Guadalupe, llevando todas las imágenes de los barrios, hasta quedar solo la imagen de la parroquia.</string>
+
+    <string name="gas">Gastronomía</string>
+    <string name="gastro">Gastronomía</string>
+    <string name="cecina">Cecina de Yecapixtla</string>
+    <string name="descesina">Se cocina en un comal y se acompaña con crema, salsa, aguacate, frijoles y tortillas.</string>
+    <string name="moleverde">Mole Verde de Pipían</string>
+    <string name="desmolever">Se acompaña con una piza de pollo y con tamales de ceniza.</string>
+    <string name="molerojo">Mole Rojo de Guajolote</string>
+    <string name="desmolerojo">Se acompaña con una piza de guajolote, se puede comer con pan o tortillas de maíz.</string>
+
+    <string name="restaurantes">Restaurantes</string>
+    <string name="rest">Restaurantes en Tlaltizapán</string>
+
+    <string name="balneareos">Balnearios</string>
+    <string name="balne">Balnearios en Tlaltizapán</string>
+    <string name="estacas">Las Estacas</string>
+    <string name="desEsta">Descripción:</string>
+    <string name="conteDes">Es un parque acuático natural que es un regalo de la Naturaleza y lo más importante, se encuentra en Estado de Morelos. El origen de su nombre se debe a las estacas que ponían a la orilla del río para controlar la subida de sus aguas y poder regar las tierras adjuntas. </string>
+    <string name="direEstacas">Dirección: Carretera Tlaltizapan-Cuautla S/N KM 6, Bonifacio Garcia, 62770 Tlaltizapán, Morelos.</string>
+    <string name="positas">Santa Isabel</string>
+    <string name="desPositas">Descripción:</string>
+    <string name="conteDesPo">El Balneario Santa Isabel está en la reserva natural con manantiales, albercas, toboganes y una extensa área de campamento. La calidez de nuestro personal y la limpieza en todas nuestras áreas además de la conservación de todos los recursos naturales bajo supervisión hace de Balneario Santa Isabel un lugar único para disfrutar de “La Naturaleza en Familia”.</string>
+    <string name="direPos"> Dirección: Carretera federal Yautepec - Jojutla Km. 20 Col. Bonifacio García, Tlaltizapán, Morelos.</string>
+    <string name="sauces">Los Sauces</string>
+    <string name="desSacuces">Descripción:</string>
+    <string name="conteDesSau">Un kilometro de aguas dulces, ideal para disfrutar con tu familia y amigos. Incluso puedes llevar a tus mascotas para nadar contigo en el río.”</string>
+    <string name="direSauce">Dirección: Carretera Tlaltizapan Zacatepec Km 1, Cuauhtémoc, 62770 Tlaltizapán, Morelos.</string>
+    <string name="rollo">El rollo</string>
+    <string name="conteDesRollo">Se destaca como el mejor parque acuático de México y siempre tiene nuevas alternativas para sus visitantes. Cuenta con gran diversidad de toboganes y con diferentes espacios para que disfruten personas de diferentes edades. Recomendamos llegar temprano para poder disfrutarlo al máximo. Es considerado como el parque de diversiones acuáticas más importante en América Latina.</string>
+    <string name="direRollo">Dirección: Calle Ribera del Rio Yautepec s/n, Gabriel Tepepa, Centro, 62983 Tlaquiltenango, MORelos.</string>
+    <string name="hertas">Las Huertas</string>
+    <string name="conteDesHuertas">Las Huertas es un Balneario Natural y rústico, muy lejos de la ciudad u otras distracciones, el agua calientita de manantial siempre limpia y siempre corriendo. Pozas ideales para niños y adultos mayores. Donde podrás disfrutar de la naturaleza y de tu familia.</string>
+    <string name="direHuertas">Dirección: Autopista México-Acapulco km. 149 Tlaquiltenango, Morelos.</string>
+
+</resources>

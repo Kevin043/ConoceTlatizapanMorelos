@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainMenuActivity"
+    android:background="@drawable/inicio">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:layout_gravity="center">
+
+    <Button
+        android:id="@+id/btnHis"
+        android:layout_width="119dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/redondeado"
+        android:text="@string/historia"
+        tools:layout_editor_absoluteX="225dp"
+        tools:layout_editor_absoluteY="99dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="15dp"/>
+
+    <Button
+        android:id="@+id/btnMuseo"
+        android:layout_width="119dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/redondeado"
+        android:text="@string/museo"
+        tools:layout_editor_absoluteX="225dp"
+        tools:layout_editor_absoluteY="99dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="95dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="115dp"
+        android:layout_marginTop="30dp"
+
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/btnTra"
+            android:layout_width="119dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/redondeado"
+            android:text="@string/cultura"
+            tools:layout_editor_absoluteX="225dp"
+            tools:layout_editor_absoluteY="99dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="15dp"/>
+
+        <Button
+            android:id="@+id/btnGas"
+            android:layout_width="119dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/redondeado"
+            android:text="@string/gas"
+            tools:layout_editor_absoluteX="225dp"
+            tools:layout_editor_absoluteY="99dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="95dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/btnRest"
+            android:layout_width="119dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/redondeado"
+            android:text="@string/restaurantes"
+            tools:layout_editor_absoluteX="225dp"
+            tools:layout_editor_absoluteY="99dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="15dp"/>
+
+        <Button
+            android:id="@+id/btnBal"
+            android:layout_width="119dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/redondeado"
+            android:text="@string/balneareos"
+            tools:layout_editor_absoluteX="225dp"
+            tools:layout_editor_absoluteY="99dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="95dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:layout_gravity="center">
+    <Button
+        android:id="@+id/btnFb"
+        android:layout_width="60dp"
+        android:layout_height="65dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/face"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="14dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    </LinearLayout>
+
+</LinearLayout>
